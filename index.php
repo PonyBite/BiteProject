@@ -13,7 +13,7 @@
 		THIS GONNA CUM!
 	</div>
 	";
-
+/*GOOD LUCK AND HAVE FUN LITTLE PONY ;) ;D*/
 ?>
 </body>
 
