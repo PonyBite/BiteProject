@@ -2,12 +2,17 @@
 <html>
 <head>
 <title>DICKS</title>
+<link rel=STYLESHEET href="css/fstyles.css" type="text/css">
 </head>
 
 <body>
 <?php
 
-	echo 'THIS GONNA CUM!'
+	echo "
+	<div class='bite'>
+		THIS GONNA CUM!
+	</div>
+	";
 
 ?>
 </body>
