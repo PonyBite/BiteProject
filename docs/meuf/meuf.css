@@ -116,9 +116,10 @@ article#content section{
 	background-color:#020202;
 	color:#686868;
 	padding: 20px;
-	
+	width:35%;
+	float:left;
 	margin-top:10px;
-	margin-right: 10%;
+	/*margin-right: 10%;*/
 
 }
 
@@ -129,12 +130,14 @@ article#content section{
 	}
 
 #history{
-	float:right;
+	float:left;
 	font-family: Flottflott;
 	padding: 15px;
 	font-size:1.4em;
 	background-color: #141414;
 	color:#686868;
+	width:47%;
+	height:253px;
 }
 
 
